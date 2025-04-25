@@ -1,1 +1,1 @@
-# AI-ML-Task-2-
+Task-2 is about Exploratory Data Analysis (EDA) with tools like Python (Pandas, Matplotlib, Seaborn) and i used jupitor notebook and titanic dataset.firstly i import all tools which are used for vizualize the data like matplotlib,seaborn ect,then loaded the dataset using path and removed null values and vizualized in heatmap and i used some plots like histogram,barplots to vizualize the data.
